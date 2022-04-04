@@ -3,7 +3,7 @@ arbitrage bots running across different blockchains <br>
 looking for: <br>
 	1. arbitrages via atomic swaps (selling and buying a token in the same tx on the same chain) <br>
 	2. cross-chain arbitrages (selling on one chain and buying on another, the swap is not atomic) <br>
-and maybe:
+and maybe: <br>
 	- arbitrages with one leg off-chain and another on-chain (e.g buying on coinbase and selling on uniswap) <br>
 	- liquidations <br>
 
